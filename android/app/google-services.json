@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "621674624441",
+    "firebase_url": "https://prokit-76ba5-default-rtdb.firebaseio.com",
+    "project_id": "prokit-76ba5",
+    "storage_bucket": "prokit-76ba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621674624441:android:04c4ddc53a249f46aff268",
+        "android_client_info": {
+          "package_name": "com.iqonic.prokitflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621674624441-7i0veje8tb83hkboor4ohfumg2obug91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRyK_ZGfhCCMPrjAG1y1_kpKmzOjTTFsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621674624441-7i0veje8tb83hkboor4ohfumg2obug91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
